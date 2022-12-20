@@ -1,1 +1,4 @@
+HNY2023
+Подарите открытку тому, кто постоянно занят, и с кем невозможно встретиться. А еще тому, кто даже на выходных не отключается от рабочих чатов. Идеально сочетается с поездкой туда, где не ловит ни мобильная связь, ни Wi-Fi
 A third-party OAuth application (JetBrains IDE Integration) with gist, read:org, repo, and workflow scopes was recently authorized to access your account.
+main
